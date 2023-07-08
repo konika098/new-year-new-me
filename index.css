@@ -1,0 +1,29 @@
+
+.menu-container{
+    background-image: url(images/banner/banner3.png);
+    width: 1600px;
+    height: 808px;
+    font-family: 'Work Sans', sans-serif;
+}
+.menu-title{
+    width: 525px;
+    
+    
+
+}
+.menu-text{
+    color: white;
+
+}
+.btn{
+    color: #005FAC;
+    text-align: center;
+    font-size: 15px;
+    width: 160px;
+    height: 64px;
+    padding:21px 25px 20px 26px  ;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+}
